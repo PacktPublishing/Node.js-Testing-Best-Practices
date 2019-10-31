@@ -7,9 +7,9 @@ This is the code repository for Node.js Testing Best Practices, published by [Pa
 * NodeJS 12.6 or higher 
 
 
-## Example Usage:
+## Usage:
 * clone the whole repository to disk, or download the zip
-* npm install
+* run "npm install" in each directory
 * run "npm test" in each of the directories to run the tests
 
 ### Some specific examples require launching something first:
