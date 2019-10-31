@@ -4,7 +4,7 @@ Node.js Testing Best Practices, published by [Packt]
 This is the code repository for Node.js Testing Best Practices, published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 
 ## Prerequisites:
-* NodeJS 12.6 or higher 
+* built with NodeJS 12.6 (may work with lower versions, but not tested)  
 
 
 ## Usage:
