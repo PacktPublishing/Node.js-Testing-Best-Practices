@@ -1,0 +1,14 @@
+{
+  "files.exclude": {
+    "**/*.js.map": true,
+    "**/*.d.ts": true,
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true,
+    "**/*.js": { "when": "$(basename).ts" }
+  },
+  "mochaExplorer.files": "test/**/*.ts",
+  "mochaExplorer.require": "ts-node/register",
+  "mochaExplorer.timeout": 10000
+}

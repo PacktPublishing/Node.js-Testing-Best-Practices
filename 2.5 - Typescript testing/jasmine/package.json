@@ -1,0 +1,20 @@
+{
+  "name": "jasmine-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jasmine-ts ./server/tsconfig.json --config=jasmine.json"
+  },
+  "author": "amit bezalel",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jasmine": "^3.3.12",
+    "jasmine": "^3.4.0",
+    "jasmine-spec-reporter": "^4.2.1",
+    "jasmine-ts": "^0.3.0",
+    "ts-node": "^8.1.0",
+    "typescript": "^3.4.5"
+  },
+  "dependencies": {}
+}

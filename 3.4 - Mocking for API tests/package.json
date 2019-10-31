@@ -1,0 +1,22 @@
+{
+  "name": "mocha-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha spec/*spec*.js --exit -s 0"
+  },
+  "author": "Amit Bezalel",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "chai-sinon": "^2.8.1",
+    "json-server": "^0.15.1",
+    "nock": "^10.0.6",
+    "sinon": "^7.5.0"
+  }
+}

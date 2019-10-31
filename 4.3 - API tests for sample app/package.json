@@ -1,0 +1,25 @@
+{
+  "name": "test-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/_mocha test/*spec*.js --timeout 30000 --exit -s 0"
+  },
+  "author": "Amit Bezalel",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.1",
+    "sinon": "^7.5.0"
+  },
+  "dependencies": {
+    "@types/mocha": "^5.2.7",
+    "@types/node": "^12.7.12",
+    "mongodb-memory-server": "^5.2.8",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7",
+    "ts-node": "^8.4.1",
+    "typescript": "^3.6.4"
+  }
+}

@@ -1,0 +1,1 @@
+json-server ./jsrv/db.json --routes ./jsrv/routes.json

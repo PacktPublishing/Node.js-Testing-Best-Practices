@@ -1,0 +1,24 @@
+{
+  "myFruitApi": [
+    {
+      "id": 1,
+      "description": "bla bla",
+      "fruits": [
+        "apple",
+        "apricot",
+        "avocado",
+        "banana",
+        "bell pepper",
+        "guava",
+        "bilberry"
+      ]
+    }
+  ],
+  "fruit": [
+    { "id": 1, "name": "apple", "shape": "roundish" },
+    { "id": 2, "name": "orange", "shape": "round" },
+    { "id": 3, "name": "cumquat", "shape": "squished" },
+    { "id": 4, "name": "avocado", "shape": "eggish" },
+    { "id": 5, "name": "jackfruit", "shape": "bumpy" }
+  ]
+}

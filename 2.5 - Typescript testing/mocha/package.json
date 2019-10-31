@@ -1,0 +1,18 @@
+{
+  "name": "mocha-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/ts-mocha ./src/*spec*.ts --exit -s 0"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4",
+    "ts-mocha": "^6.0.0",
+    "ts-node": "^8.1.0",
+    "typescript": "^3.4.5"
+  }
+}
