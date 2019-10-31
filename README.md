@@ -13,5 +13,5 @@ This is the code repository for Node.js Testing Best Practices, published by [Pa
 * run "npm test" in each of the directories to run the tests
 
 ### Some specific examples require launching something first:
-* In 3.4 there is a runsrv.bat file that runs the json-server, json-server has to be installed globally (npm i -g json-server)
+* In 3.4 there is a runsrv.bat file that runs the json-server, which has to be installed globally (npm i -g json-server)
 * In 4.1 there is a run.bat file in each directory (frontEnd and backEnd)
